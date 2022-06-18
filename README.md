@@ -30,6 +30,7 @@ The results are as follows:
                                                                                                            
 ## Citation & Acknowledgements
 
+- The full article can be viewed at "https://www.sciencedirect.com/science/article/pii/S0168169922004112#s0025". 
  If this work looks helpful to you don't forget to cite:
 
     @article{behera2022vegetation,
