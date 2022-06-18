@@ -27,10 +27,10 @@ The results are as follows:
 |**AerialSegNet**|  11.76*M*|0.88       |0.91     | 0.84 |0.88     |0.98       |
                                                                                                            
 - \* Update on **UDD** and the executable code will be available soon (A reader can find the results in the base paper)
+- The full version of the article can be viewed at "https://www.sciencedirect.com/science/article/pii/S0168169922004112#s0025"
                                                                                                            
 ## Citation & Acknowledgements
 
-- The full article can be viewed at "https://www.sciencedirect.com/science/article/pii/S0168169922004112#s0025". 
  If this work looks helpful to you don't forget to cite:
 
     @article{behera2022vegetation,
