@@ -24,7 +24,7 @@ The results are as follows:
 |DeepLab_V3+Exception   |  41.3*M* |0.84| 0.79    |0.74  |0.83     | 0.96      |
 |UNet-ResNet-18s|  15.50*M*|0.84        |0.90     | 0.80 |0.85     |0.98       |
 |UNet-ResNet-50s|  36.49*M*|0.85        |0.90     | 0.81 |0.87     |0.98       |
-|**AerialSegNet**|  134*M*|0.88       |0.91     | 0.84 |0.88     |0.98       |
+|**AerialSegNet**|  11.76*M*|0.88       |0.91     | 0.84 |0.88     |0.98       |
 
                                                                                                            
 ## Citation & Acknowledgements
